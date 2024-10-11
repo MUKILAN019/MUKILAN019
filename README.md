@@ -1,4 +1,4 @@
-# Hi there, I'm [MUKILAN] 👋
+# Hi there, I'm MUKILAN 👋
 
 **Full Stack Developer | MERN Stack | Competitive Programmer**
 

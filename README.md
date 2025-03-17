@@ -8,10 +8,10 @@
 I am a passionate developer with a focus on web development and problem-solving through algorithms. I love exploring new technologies and continuously improving my coding skills.
 
 - 💻 **Tech Stack:** 
-  - **Frontend:** HTML, CSS, JavaScript, React.js
-  - **Backend:** Node.js, Express.js, MongoDB
-  - **Languages:** C++, Python, JavaScript , Java
-  - **Libraries/Tools:** Axios, JWT
+  - **Frontend:** HTML, CSS, JavaScript, React.js, TypeScript
+  - **Backend:** Node.js, Express.js, MongoDB, Django
+  - **Languages:** C++, Python, JavaScript
+  - **Libraries/Tools:** Axios, JWT, bcrypt
   
 - 🔭 **Currently Working On:** 
   - Building dynamic web applications using the MERN stack.
